@@ -4,13 +4,17 @@
 The program preprocesses each document in the dataset to auto-generate keywords, or topics using Stanford CoreNLP library and follows the  object oriented programming paradigm with Java. 
 
 
-• a class to perform the pre-processing of textual data. 
+• a class to perform the pre-processing of textual data
+
 • a class that takes care of generating the term-document matrix and applies the TF-IDF transformation
+
 • a class that implements the similarity methods
+
 • a class that is responsible for data clustering
  
 
- The code performs the following steps:
+
+> The code performs the following steps:
 
 
 --> filters and removes stopwords
